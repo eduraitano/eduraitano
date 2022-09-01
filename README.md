@@ -1,5 +1,7 @@
 ### Salve Eduardo Raitano  💡🖥️ 🧑‍💻
 
+Apaixonado por tecnoligia, entrando na carreira de desolvolvimento
+
 <!--
 **eduraitano/eduraitano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
