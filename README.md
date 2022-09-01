@@ -1,6 +1,12 @@
-### Salve Eduardo Raitano  💡🖥️ 🧑‍💻
+### Salve pessoal .. Eduardo Raitano desenvolvedor em evoloção por aqui!
 
-Apaixonado por tecnoligia, entrando na carreira de desolvolvimento
+💡Pense 🧑‍💻Planeje 🖥️Desenvolva
+
+Apaixonado por tecnoligia, entrando na carreira de desolvolvimento em 3, 2 1..........
+
+
+
+
 
 <!--
 **eduraitano/eduraitano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
