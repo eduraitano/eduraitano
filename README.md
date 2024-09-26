@@ -1,6 +1,6 @@
 ### Salve pessoal .. Eduardo Raitano desenvolvedor em evoloção por aqui!
 
-💡Pense 🧑‍💻Planeje 🖥️Desenvolva
+💡 Pense 🧑‍💻 Planeje 🖥️ Desenvolva
 
 Apaixonado por tecnoligia, entrando na carreira de desolvolvimento em 3, 2 1..........
 
