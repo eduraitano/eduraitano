@@ -1,6 +1,8 @@
-### Salve!! Aqui é o Eduardo Raitano apaixonado por tecnologia e desenvolvedor em evoloção.
+### Hello Word!
 
-💡 Pense -> 🧑‍💻 Planeje -> 🖥️ Desenvolva
+Aqui é o Eduardo Raitano apaixonado por tecnologia e desenvolvedor em evoloção.
+
+💡 Pense -> 🧑‍💻 Planeje -> 🖥️ Desenvolva = Mude o Mundo.
 
 ### Soft Skills:
 
