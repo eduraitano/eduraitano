@@ -1,10 +1,12 @@
-### Salve pessoal .. Eduardo Raitano desenvolvedor em evoloção por aqui!
+### Salve!! Aqui é o Eduardo Raitano apaixonado por tecnologia e desenvolvedor em evoloção.
 
-💡 Pense 🧑‍💻 Planeje 🖥️ Desenvolva
+💡 Pense -> 🧑‍💻 Planeje -> 🖥️ Desenvolva
 
-Apaixonado por tecnoligia, entrando na carreira de desolvolvimento em 3, 2 1..........
+### Soft Skills:
 
-### Estudando no momento:
+### Hard Skills:
+
+### In Evolution:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
